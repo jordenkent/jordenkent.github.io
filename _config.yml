@@ -89,3 +89,4 @@ exclude:
 
 # Themes
 remote_theme: bitbrain/jekyll-dash
+theme: jekyll-dash
