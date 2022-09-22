@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github:
   instagram:
   linkedin:
   pinterest:
@@ -72,6 +72,8 @@ kramdown:
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
+
+
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
@@ -84,3 +86,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Themes
+theme: jekyll-dash
