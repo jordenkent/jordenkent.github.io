@@ -11,6 +11,9 @@ description: VMware and General SysAdmin Tips & Tricks
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
+# Themes
+remote_theme: bitbrain/jekyll-dash
+
 #
 # Flags below are optional
 #
@@ -87,6 +90,3 @@ exclude:
   - README.md
   - CNAME
 
-# Themes
-remote_theme: bitbrain/jekyll-dash
-theme: jekyll-dash
