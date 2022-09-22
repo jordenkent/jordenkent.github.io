@@ -15,6 +15,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Flags below are optional
 #
 
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -72,10 +73,16 @@ kramdown:
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
+# Theme Stuff
+
+theme: jekyll-dash
+
+
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-dash
 
 # Exclude these files from your production _site
 exclude:
