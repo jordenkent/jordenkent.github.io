@@ -88,4 +88,4 @@ exclude:
   - CNAME
 
 # Themes
-theme: jekyll-dash
+remote_theme: bitbrain/jekyll-dash
