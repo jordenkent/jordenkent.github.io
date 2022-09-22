@@ -15,7 +15,6 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Flags below are optional
 #
 
-
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -72,11 +71,6 @@ kramdown:
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
-
-# Theme Stuff
-
-theme: jekyll-dash
-
 
 # Use the following plug-ins
 gems:
